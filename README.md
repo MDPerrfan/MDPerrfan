@@ -1,4 +1,2 @@
 - 👋 Hi, I’m Parves.
-- 👀 I’m interested in Software development.
-- 🌱 I’m currently learning Python
-- Trying pretty hard to learn the uses of github
+
