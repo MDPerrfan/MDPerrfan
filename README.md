@@ -1,14 +1,14 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Parves</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
-<img align="right" src="https://i.gifer.com/6M8G.gif" width="300px" alt="mdp"  />
+
 - 🌱 I’m currently learning MERN
 
 - 👨‍💻 All of my projects are available at [devparves.netlify.app](devparves.netlify.app)
 
 - 💬 Ask me about **React,HTML,CSS,CPP,JS**
 
-- 📫 How to reach me **erfanparves10@gmail.com**
+- 📫 How to reach me **mdperrfan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
