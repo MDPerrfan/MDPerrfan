@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning MERN
 
-- 👨‍💻 All of my projects are available at [devparves.netlify.app](devparves.netlify.app)
+- 👨‍💻 All of my projects are available at [https://devparves.netlify.app](https://devparves.netlify.app)
 
 - 💬 Ask me about **React,HTML,CSS,CPP,JS**
 
